@@ -1,6 +1,6 @@
 # Dice_Game
 
-Dicee is a simple web-based dice game where two players roll a pair of dice, and the player with the higher roll wins. If both players roll the same number, the game results in a draw. This project demonstrates basic web development skills using HTML, CSS, and JavaScript.
+Dice is a simple web-based dice game where two players roll a pair of dice, and the player with the higher roll wins. If both players roll the same number, the game results in a draw. This project demonstrates basic web development skills using HTML, CSS, and JavaScript.
 
 Play the game here:  [Dice Game ](https://nitinmoturu72.github.io/Dice_Game/)
 
